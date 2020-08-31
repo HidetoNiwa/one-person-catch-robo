@@ -22,3 +22,6 @@ https://pickerlab.net/2018/08/06/darknet-eroor-nvcc/
 ### 学習用ファイルラベリング「labelimg」
 
 参考；https://symfoware.blog.fc2.com/blog-entry-2420.html
+
+PyQTのバージョン：5.14.1
+デフォルトのインストール設定では、5.10.1になっているのを書き換える（pip配布の問題）
