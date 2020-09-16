@@ -1,5 +1,0 @@
-classes=16
-train = data/bisco/face/train.txt
-valid = data/bisco/face/test.txt
-names = cfg/bisco.names
-backup = data/bisco/face/backup
